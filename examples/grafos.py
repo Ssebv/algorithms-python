@@ -1,4 +1,5 @@
 #Clase que permite reunir key, lista adyacencia y color class Nodo:
+class Nodo:
     def __init__(self,key ,ady_list ,color ):
         self.key = key
         self.ady_list = ady_list

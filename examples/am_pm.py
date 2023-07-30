@@ -1,6 +1,7 @@
 
-def timeConversion(s):
+# Given a time in 12-hour AM/PM format, convert it to military (24-hour) time.
 
+def timeConversion(s):
 
     for i in s:
 

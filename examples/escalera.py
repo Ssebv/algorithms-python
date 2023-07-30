@@ -1,4 +1,4 @@
-# Crear escalera con # y espacios
+# Create a function that prints a stairway of n steps
 def escalera(n):
 
     escalera = []
